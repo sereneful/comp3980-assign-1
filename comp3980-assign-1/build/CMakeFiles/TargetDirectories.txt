@@ -1,0 +1,4 @@
+/home/markus/comp3980-assign-1/build/CMakeFiles/comp3980-assign-1.dir
+/home/markus/comp3980-assign-1/build/CMakeFiles/format.dir
+/home/markus/comp3980-assign-1/build/CMakeFiles/edit_cache.dir
+/home/markus/comp3980-assign-1/build/CMakeFiles/rebuild_cache.dir
